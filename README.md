@@ -1,15 +1,11 @@
 # kaggle_challenges
 ### Notes:
-- Each **Chanllenge** is associated with only **one branch** 
-- **No branch is merged with master**. So, if you want to explore a challenge, **checkout** to the corresponding branch name. To get branch name associated with a challenge see the [**table**](#challenge-to-branch-mapping) bellow
 - All the **dataset** uploaded here have been taken from [**Kaggle**](https://www.kaggle.com/)
-- Each **Challenge** is kept in a separate **directory**
-- Bellow is the mapping of [**Challenge** to **Branch Name**](#challenge-to-branch-mapping)
+- Each **Challenge** and its materials are kept in separate **directory**
 
+# Solve Challegnes From Kaggle
 
-
-## Challenge to Branch Mapping
-
-Challenge | Branch | Directory 
---- | --- | ---
-Titanic: Machine Learning from Disaster | br_titanic | titanic 
+Challenge | URL | Status | Remarks 
+--- | --- | --- | ---
+[Titanic: Machine Learning from Disaster](https://github.com/MhmdRyhn/kaggle_challenges/tree/master/titanic) | [Titanic](https://www.kaggle.com/c/titanic) | Completed |  
+[House Prices: Advanced Regression Techniques]() | [House Price](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Ongoing |
