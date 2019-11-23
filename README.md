@@ -5,7 +5,7 @@
 
 # Solve Challegnes From Kaggle
 
-Challenge | URL | Status | Remarks 
+Challenge | Directory | Status | Remarks 
 --- | --- | --- | ---
-[Titanic: Machine Learning from Disaster](https://github.com/MhmdRyhn/kaggle_challenges/tree/master/titanic) | [Titanic](https://www.kaggle.com/c/titanic) | Completed |  
-[House Prices: Advanced Regression Techniques]() | [House Price](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Ongoing |
+[Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | [titanic](https://github.com/MhmdRyhn/kaggle_challenges/tree/master/titanic) | Completed |  
+[House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | [house_prices]() | Ongoing |
